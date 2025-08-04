@@ -1,48 +1,60 @@
-# 👋 Hi there, I'm Raj Sagar (therajsagar)
+# 👋 Hey, I'm Raj Sagar
 
-I'm a passionate **Software Developer (Frontend)** with **7+ years of hands‑on experience** building robust and scalable web applications using modern JavaScript libraries and frameworks.
+I'm a passionate **Frontend Developer** with over **7 years of experience** crafting modern, scalable, and high-performance web applications using cutting-edge JavaScript libraries and frameworks.
 
 ---
 
 ## 🚀 About Me
 
-- **Expert in**: React, Redux, Next.js  
-- Strong foundation in **JavaScript**, **TypeScript**, **HTML5** and **CSS3**  
-- Passionate about clean code, component-driven architecture, and web performance  
-- Experienced with CI/CD tools, testing frameworks, and agile workflows  
-- Always seeking to learn new tools and best practices to level up
+- 🔧 Expert in: **React**, **Redux**, **Next.js**, **Svelte**
+- 💡 Strong grip on **JavaScript (ES6+), TypeScript, HTML5, CSS3**
+- 🎯 Focused on writing **clean, reusable**, and **efficient code**
+- ⚙️ Familiar with **CI/CD pipelines**, **testing frameworks**, and **agile workflows**
+- 📈 Continuously learning and exploring new tools, frameworks, and patterns
 
 ---
 
-## 🔧 Technical Skills
+## 🧠 Tech Stack
 
-| Area             | Technologies |
-|------------------|--------------|
-| Frontend         | React, Next.js, Redux, Svelte |
-| Styling          | CSS Modules, Sass, Styled Components, Tailwind CSS |
-| Languages        | JavaScript (ES6+), TypeScript |
-| Testing          | Jest, React Testing Library |
-| Build & Tools    | Webpack, Vite, ESLint, Prettier, Husky, GitHub Actions |
-| Backend / APIs   | Node.js, Express, GraphQL, REST APIs |
-| CI/CD, Hosting   | GitHub Actions, Netlify, Vercel, Docker |
-| Version Control  | Git, GitHub, GitLab |
-
----
-
-## 🏆 Experience Highlights
-
-- **7+ years** of building user-centric, high-performance frontends  
-- Delivered end-to-end Next.js applications with SSR/ISR and API integrations  
-- Developed Redux-based features with middleware for complex state flows  
-- Architected reusable component libraries to drive modular, maintainable code  
-- Integrated cross‑platform testing strategies (unit, integration, E2E)  
-- Optimized web apps for performance, accessibility, and SEO
+| Category         | Tools & Technologies |
+|------------------|----------------------|
+| 💻 Frontend      | React, Next.js, Redux, Svelte |
+| 🎨 Styling       | CSS Modules, Sass, Tailwind CSS, Styled Components |
+| 🧑‍💻 Languages    | JavaScript (ES6+), TypeScript |
+| 🧪 Testing       | Jest, React Testing Library |
+| 🛠️ Build Tools   | Webpack, Vite, ESLint, Prettier, Husky |
+| 🔌 Backend / APIs| Node.js, Express, REST, GraphQL |
+| 🚀 DevOps & Hosting | GitHub Actions, Vercel, Netlify, Docker |
+| 🔃 Version Control | Git, GitHub, GitLab |
 
 ---
 
-## 📫 Get in Touch
+## 🏆 Professional Highlights
 
-- **LinkedIn**: [therajsagar](https://www.linkedin.com/in/therajsagar)  
-- **GitHub**: [github.com/therajsagar](https://github.com/therajsagar)  
-- I’m open to collaboration, freelance opportunities, and engaging tech conversations — feel free to connect!
+- 🚀 Delivered **end-to-end apps** with Next.js (SSR, ISR, API routes)
+- 🧠 Designed **Redux architecture** with middleware, async thunks, and dev tools
+- ♻️ Built and maintained **component libraries** used across multiple projects
+- ⚡ Optimized for **performance**, **accessibility**, and **SEO**
+- 🧪 Implemented **unit, integration, and E2E testing strategies**
+- 🤝 Worked closely with product teams in agile environments (Scrum, Kanban)
 
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=therajsagar&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therajsagar&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- [![GitHub](https://img.shields.io/badge/GitHub-therajsagar-181717?style=for-the-badge&logo=github)](https://github.com/therajsagar)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-therajsagar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/therajsagar)
+- ✉️ *Open to freelance, collaboration, or just tech talk — drop a message!*
+
+---
+
+> ⚒️ *Pushing pixels with purpose, one component at a time.*
