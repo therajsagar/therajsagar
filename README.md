@@ -1,16 +1,63 @@
-### Hi there 👋
+# 👋 Hi there, I'm Raj Sagar (therajsagar)
 
-<!--
-**therajsagar/therajsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Developer (Frontend)** with **7+ years of hands‑on experience** building robust and scalable web applications using modern JavaScript libraries and frameworks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- **Expert in**: React, Redux, Next.js  
+- Strong foundation in **JavaScript**, **TypeScript**, **HTML5** and **CSS3**  
+- Passionate about clean code, component-driven architecture, and web performance  
+- Experienced with CI/CD tools, testing frameworks, and agile workflows  
+- Always seeking to learn new tools and best practices to level up
+
+---
+
+## 🔧 Technical Skills
+
+| Area             | Technologies |
+|------------------|--------------|
+| Frontend         | React, Next.js, Redux, Svelte |
+| Styling          | CSS Modules, Sass, Styled Components, Tailwind CSS |
+| Languages        | JavaScript (ES6+), TypeScript |
+| Testing          | Jest, React Testing Library |
+| Build & Tools    | Webpack, Vite, ESLint, Prettier, Husky, GitHub Actions |
+| Backend / APIs   | Node.js, Express, GraphQL, REST APIs |
+| CI/CD, Hosting   | GitHub Actions, Netlify, Vercel, Docker |
+| Version Control  | Git, GitHub, GitLab |
+
+---
+
+## 🏆 Experience Highlights
+
+- **7+ years** of building user-centric, high-performance frontends  
+- Delivered end-to-end Next.js applications with SSR/ISR and API integrations  
+- Developed Redux-based features with middleware for complex state flows  
+- Architected reusable component libraries to drive modular, maintainable code  
+- Integrated cross‑platform testing strategies (unit, integration, E2E)  
+- Optimized web apps for performance, accessibility, and SEO
+
+---
+
+## 💼 Featured Projects
+
+### [Sample‑proj-js]
+A demonstration project showcasing core React and Redux patterns, component libraries, and deployment via Netlify.
+
+### [Learning‑React‑Router]
+Explores React Router best practices and dynamic routing strategies in React.
+
+### [Learning‑Redux]
+Hands‑on experiments with Redux state management, middleware, thunks, and selectors.
+
+*Check out these and other repositories on my GitHub profile!*
+
+---
+
+## 📫 Get in Touch
+
+- **LinkedIn**: [therajsagar](https://www.linkedin.com/in/therajsagar)  
+- **GitHub**: [github.com/therajsagar](https://github.com/therajsagar)  
+- I’m open to collaboration, freelance opportunities, and engaging tech conversations — feel free to connect!
+
