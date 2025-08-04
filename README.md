@@ -40,21 +40,6 @@ I'm a passionate **Software Developer (Frontend)** with **7+ years of hands‑on
 
 ---
 
-## 💼 Featured Projects
-
-### [Sample‑proj-js]
-A demonstration project showcasing core React and Redux patterns, component libraries, and deployment via Netlify.
-
-### [Learning‑React‑Router]
-Explores React Router best practices and dynamic routing strategies in React.
-
-### [Learning‑Redux]
-Hands‑on experiments with Redux state management, middleware, thunks, and selectors.
-
-*Check out these and other repositories on my GitHub profile!*
-
----
-
 ## 📫 Get in Touch
 
 - **LinkedIn**: [therajsagar](https://www.linkedin.com/in/therajsagar)  
