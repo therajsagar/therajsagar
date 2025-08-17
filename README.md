@@ -53,6 +53,7 @@ I'm a passionate **Frontend Developer** with **experience** crafting modern, sca
 
 - [![GitHub](https://img.shields.io/badge/GitHub-therajsagar-181717?style=for-the-badge&logo=github)](https://github.com/therajsagar)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-therajsagar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/therajsagar)
+- [![X](https://img.shields.io/badge/X-therajsagar-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/therajsagar)
 - ✉️ *Open to freelance, collaboration, or just tech talk — drop a message!*
 
 ---
