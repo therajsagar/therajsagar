@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Raj Sagar
 
-I'm a passionate **Frontend Developer** with over **7 years of experience** crafting modern, scalable, and high-performance web applications using cutting-edge JavaScript libraries and frameworks.
+I'm a passionate **Frontend Developer** with **experience** crafting modern, scalable, and high-performance web applications using cutting-edge JavaScript libraries and frameworks.
 
 ---
 
