@@ -6,7 +6,7 @@ I'm a passionate **Frontend Developer** with over **7 years of experience** craf
 
 ## 🚀 About Me
 
-- 🔧 Expert in: **React**, **Redux**, **Next.js**, **Svelte**
+- 🔧 Expert in: **React**, **Redux**, **React Router**, **Next.js**
 - 💡 Strong grip on **JavaScript (ES6+), TypeScript, HTML5, CSS3**
 - 🎯 Focused on writing **clean, reusable**, and **efficient code**
 - ⚙️ Familiar with **CI/CD pipelines**, **testing frameworks**, and **agile workflows**
@@ -18,7 +18,7 @@ I'm a passionate **Frontend Developer** with over **7 years of experience** craf
 
 | Category         | Tools & Technologies |
 |------------------|----------------------|
-| 💻 Frontend      | React, Next.js, Redux, Svelte |
+| 💻 Frontend      | React, Next.js, Redux, React Router, Svelte |
 | 🎨 Styling       | CSS Modules, Sass, Tailwind CSS, Styled Components |
 | 🧑‍💻 Languages    | JavaScript (ES6+), TypeScript |
 | 🧪 Testing       | Jest, React Testing Library |
